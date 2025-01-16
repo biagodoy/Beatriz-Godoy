@@ -1,38 +1,33 @@
-# BIA
+# BEATRIZ GODOY
 
-Hello! I’m BIA, a technology enthusiast with a passion for Web Development, APIs, backend, DBA, and automation. I’m currently pursuing a degree in Systems Analysis and Development at SENAC, with an expected completion in 2026.
+Olá! Eu sou a Bia, uma futura desenvolvedora. Adoro tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## 🧑‍💻 About Me
 
-I’m a developer who is constantly learning and always strives to apply best practices in my daily work. I have solid experience in software development, reporting, data pipelines, and automation.
+Possuo base sólida em Python, com certificação em SoloLearn e experiência prática no desenvolvimento de 3 APIs. Domino ferramentas como GitHub e SQLite para versionamento e gerenciamento de dados.
+Procuro obter um estágio em 2025 para aplicar meus conhecimentos, contrubuir para projetos inovadores e crescer profissionalmente em uma equipe de desenvolvimento dinâmica.
 
 ## 🎯 Professional Objective
 
-- **Short-Term:** Secure a full-time position as an intern/trainee/junior developer to gain valuable experience and industry knowledge.
-- **Long-Term:** Become a senior developer and specialize in backend development.
+- **Curto prazo:** Conseguir um estágio na área, adquirir expêriencia e conhecimento.
+- **Longo prazo:** Me tornar uma desenvolvedora e se especializar em desenvolvimento Back-end.
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** Java, PHP
-- **Databases:** PostgreSQL, MySQL
-- **Development Tools:** Git, Docker
-- **Code Quality Principles:** XP, Design Patterns, and TDD
-- **Cloud:** Azure, Starting with AWS
-- **Agile Methodologies:** Scrum, studying Shape Up
+- **Programming Languages:** 
+- 
 
 ## 📚 Key Projects
 
-- **Data Structures Study with Java:** Implementation of various data structures using Java, with a focus on best practices and efficiency.
-- **JUnit and TDD:** Application of unit testing with JUnit and practice of test-driven development (TDD) to ensure code quality.
-- **GitHub Actions for CI:** Configuration of continuous integration (CI) pipelines using GitHub Actions to automate testing and builds.
+- **Data Structures Study with Java:** 
 
 ## 📫 Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/beatriz-g-598846324/])
-- Email: [allanvilasboas@live.com](mailto:allanvilasboas@live.com)
+- [LinkedIn](linkedin.com/in/beatriz-g-598846324)
+- Email: [beatrizgodoy381@gmail.com]
 
 I’m always open to new opportunities and collaborations. Feel free to reach out!
 
 ---
 
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=biagodoy&show_icons=true&theme=radical)
+
