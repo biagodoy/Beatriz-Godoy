@@ -14,7 +14,7 @@ Busco obter um estágio em 2025 para aplicar meus conhecimentos, contribuir para
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** 
+- **Programming Languages:** Python
 - 
 
 ## 📚 Key Projects
