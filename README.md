@@ -26,8 +26,4 @@ Busco obter um estágio em 2025 para aplicar meus conhecimentos, contribuir para
 - [LinkedIn](linkedin.com/in/beatriz-g-598846324)
 - Email: [beatrizgodoy381@gmail.com]
 
-I’m always open to new opportunities and collaborations. Feel free to reach out!
-
----
-
 
