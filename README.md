@@ -1,4 +1,4 @@
-# BEATRIZ GODOY
+# BEATRIZ
 
 Olá! Eu sou a Bia, uma futura desenvolvedora. Adoro tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
