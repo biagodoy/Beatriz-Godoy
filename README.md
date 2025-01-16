@@ -5,7 +5,7 @@ Olá! Eu sou a Bia, uma futura desenvolvedora. Adoro tecnologia, atualmente esto
 ## 🧑‍💻 About Me
 
 Possuo base sólida em Python, com certificação em SoloLearn e experiência prática no desenvolvimento de 3 APIs. Domino ferramentas como GitHub e SQLite para versionamento e gerenciamento de dados.
-Procuro obter um estágio em 2025 para aplicar meus conhecimentos, contrubuir para projetos inovadores e crescer profissionalmente em uma equipe de desenvolvimento dinâmica.
+Busco obter um estágio em 2025 para aplicar meus conhecimentos, contrubuir para projetos inovadores e crescer profissionalmente em uma equipe de desenvolvimento dinâmica.
 
 ## 🎯 Professional Objective
 
